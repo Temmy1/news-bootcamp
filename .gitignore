@@ -9,6 +9,7 @@
 
 # production
 /build
+client/dist
 /dist
 .cache
 # misc
